@@ -1,6 +1,6 @@
-# 제목 1
-## 제목 2
-### 제목 3
-#### 제목 4 ####
-##### 제목 5 #####
-###### 제목 6 ######
+| First Header | Second Header | Third Header |
+| :-      | :-:         | -:        |
+| First row       | Data                  | Very long data entry  |
+| Second row      | **Cell**          | *Cell*              |
+| Third row       | Cell that spans across two columns  ||
+[Table caption, work as a reference]
